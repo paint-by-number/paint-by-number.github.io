@@ -17,7 +17,7 @@ Data visualization on anything that strikes our fancy. Join us in gawking at coo
 		<span style="display: inline-block;height: 100%;vertical-align: middle"></span><img src="/images/bio-huyenle.jpg" alt="Huyen (Elise) Le" width="150" height="150">
 	</div>
 	<div style="margin-left:170px">
-		<p><a href="https://www.linkedin.com/in/huyentle">Huyen (Elise) Le</a> is a young professional in international development in Washington D.C. An avid follower of the NYTimes and The Economist graphics, she’s inspired to explore the use of data visualization in making economic information more accessible in the development world. A STATA user by trade, she hopes to pick up R and D3 skills through this blog.</p>
+		<p><a href="https://www.linkedin.com/in/huyentle">Huyen (Elise) Le</a> is a young professional in International Development in Washington D.C. An avid follower of the NYTimes and The Economist graphics, she’s inspired to explore the use of data visualization in making economic information more accessible in the development world. A STATA user by trade, she hopes to pick up R and D3 skills through this blog.</p>
 	</div>
 </div>
 
