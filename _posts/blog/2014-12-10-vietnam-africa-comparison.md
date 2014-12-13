@@ -20,7 +20,7 @@ I work in international development so it comes naturally that a lot of projects
 	<figcaption>Credit:<a href="mannisingh.wordpress.com">Manni Singh</a></figcaption>
 </figure>
 
-Given Africa's geographic size, Anh and I are curious to have a quick glance of its economic landscape. So we compare GDP per capita of sub-Saharan African countries with that of Vietnam, hoping to calm my friends down a bit. Vietnam is the bold red line in the graph.
+Given Africa's geographic size, Anh and I are curious to have a quick glance at its economic landscape. So we compare GDP per capita of sub-Saharan African countries with that of Vietnam, hoping to calm my friends down a bit. Vietnam is the bold red line in the graph.
 
 <figure>
 	<img src="/images/vietnam_africa_full.png" alt="vietnam_africa_full">
