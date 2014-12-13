@@ -13,7 +13,15 @@ image:
 
 After comparing African countries' GDP per capita in the last entry, we wondered how to visualize standards of living using multiple dimensions rather than just GDP per capita. A straightforward solution is to simply make one graph for each of the dimension. However, this will quickly gets out of hand as the number of dimensions grows large.
 
-A better solution is to use [Gower distance coefficient](http://venus.unive.it/romanaz/modstat_ba/gowdis.pdf), which measures how different two things are based on multiple criteria. Gower distance ranges from 0 (i.e. these two are identical) to 1 (i.e. these two have the farthest distance in the population). [(More info on Gower distance)](#gower)
+A better solution is to use [Gower distance coefficient](http://venus.unive.it/romanaz/modstat_ba/gowdis.pdf), which measures how different two things are based on multiple criteria. Gower distance ranges from 0 (i.e. these two are identical) to 1 (i.e. these two have the farthest distance in the population).[^1]
+
+[^1]: Gower distance coefficient is particularly popular since
+
+	- It works with missing data
+	- It works with regardless of the data type of the dimensions (either binary, categorical, or continuous)
+	- The distance matrix it creates is easily interpretable on the Euclidean space
+
+	You can read about the Gower coefficient's [mathematical construct](http://venus.unive.it/romanaz/modstat_ba/gowdis.pdf) and [its implementation in R](http://stackoverflow.com/questions/4298870/implementation-of-the-gower-distance-function).
 
 In this graph, I calculate the Gower distance for all African and Latin American countries and plot it on a heat map. The darker a cell, the higher the distance between the two corresponding countries in the x- and y-axis.
 
@@ -30,11 +38,7 @@ That's an intuitive finding. What's more interesting to see is:
 
 ---
 
-<a name="gower"></a>
-Gower distance coefficient is particularly popular since
 
-- It works with missing data
-- It works with regardless of the data type of the dimensions (either binary, categorical, or continuous)
-- The distance matrix it creates is easily interpretable on the Euclidean space
 
-You can read about the Gower coefficient's [mathematical construct](http://venus.unive.it/romanaz/modstat_ba/gowdis.pdf) and [its implementation in R](http://stackoverflow.com/questions/4298870/implementation-of-the-gower-distance-function).
+---
+

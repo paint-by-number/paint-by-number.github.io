@@ -42,3 +42,7 @@ We use [Gower's similarity coefficient](http://venus.unive.it/romanaz/modstat_ba
 <figure>
 	<img src="/images/vietnam_africa_similarity.png" alt="vietnam_africa_comparison">
 </figure>
+
+---
+
+<script src="http://gist-it.appspot.com/github.com/paint-by-number/visualization-code/blob/master/vietnam_africa.R"></script>
