@@ -4,7 +4,7 @@ title: "Vietnam and Africa comparison"
 author: elise_le
 modified:
 categories: blog
-excerpt:
+excerpt: "I work in international development so it comes naturally that a lot of projects I've worked on are in Africa. But whenever I chat with my friends and family, they fumble for words trying to find a nice way to ask me why I would ever want to travel to such a poor and dangerous place. Even more puzzling, the Vietnamese and American media seems to reinforce this perception. But little did they know..."
 comments: true
 share: true
 tags: [vietnam, africa, line graph]

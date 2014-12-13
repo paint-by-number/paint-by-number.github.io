@@ -4,7 +4,7 @@ title: "Multi-dimensional comparison with Gower distance"
 modified:
 categories: blog
 author: anh_le
-excerpt:
+excerpt: "We wondered how to visualize standards of living using multiple dimensions rather than just GDP per capita. A straightforward solution is to simply make one graph for each of the dimension. However, this will quickly gets out of hand as the number of dimensions grows large. A better solution is to use Gower distance coefficient."
 comments: true
 share: true
 tags: [latin america, africa, heat map, gower coefficient, similarity]
