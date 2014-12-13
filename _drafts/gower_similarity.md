@@ -3,6 +3,7 @@ layout: post
 title: "Multi-dimensional comparison with Gower distance"
 modified:
 categories: blog
+author: anh_le
 excerpt:
 comments: true
 share: true
@@ -37,8 +38,7 @@ That's an intuitive finding. What's more interesting to see is:
 - Within each region, there are a few outliers, whose name are in large fonts. Seychelles and Mauritus have dark cells in top-right and light cells in top-left, meaning that they are on Latin America's level of development instead of Sub-Saharan Africa's. In contrast, Haiti is exceptionally poor compared to the rest of Latin America.
 
 ---
-
-
-
+How we plot the graphs:
+<script src="http://gist-it.appspot.com/github.com/paint-by-number/visualization-code/blob/master/gower_similarity.R"></script>
 ---
 
