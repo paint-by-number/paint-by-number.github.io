@@ -7,7 +7,7 @@ author: anh_le
 excerpt:
 comments: true
 share: true
-tags: [vietnam, africa]
+tags: [latin america, africa, heat map, gower coefficient, similarity]
 image:
   feature:
 ---
