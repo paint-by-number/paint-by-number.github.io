@@ -13,7 +13,7 @@ image:
 ---
 I work in international development so it comes naturally that a lot of projects I've worked on are in Africa. But whenever I chat with my friends and family, they fumble for words trying to find a nice way to ask me why I would ever want to travel to such a poor and dangerous place. Even more puzzling, the Vietnamese and American media seems to reinforce this perception. But little did they know...
 
-[Africa is larger than the US, Mexico, China, India, and Europe *combined*](http://www.economist.com/blogs/dailychart/2010/11/cartography). The continent comprises of more than 60 sovereign states and territories with approximately 1.1 billion people! And just by looking at the picture below, you would not be able to tell what you are seeing is Nairobi. It looks more lively than Detroit at night, doesn't it?
+[Africa is larger than the US, Mexico, China, India, and Europe *combined*](http://www.economist.com/blogs/dailychart/2010/11/cartography). The continent comprises of more than 60 sovereign states and territories with approximately 1.1 billion people! And just by looking at the picture below, would you be able to tell what you are seeing is Nairobi? The city looks more lively than Detroit at night, doesn't it?
 
 <figure>
 	<img src="https://mannisingh.files.wordpress.com/2012/08/hdr-copy.jpg">
