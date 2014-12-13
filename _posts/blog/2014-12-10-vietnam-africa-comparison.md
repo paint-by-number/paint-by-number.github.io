@@ -7,7 +7,7 @@ categories: blog
 excerpt:
 comments: true
 share: true
-tags: [vietnam, africa]
+tags: [vietnam, africa, line graph]
 image:
   feature:
 ---

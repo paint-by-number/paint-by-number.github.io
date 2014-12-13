@@ -7,12 +7,12 @@ author: anh_le
 excerpt:
 comments: true
 share: true
-tags: [vietnam, africa]
+tags: [latin america, africa, heat map, gower coefficient, similarity]
 image:
   feature:
 ---
 
-After comparing African countries' GDP per capita in the [last entry]({% post_url 2014-12-12-vietnam-africa-comparison.md %})
+After comparing African countries' GDP per capita in the [last entry]({% post_url /blog/2014-12-10-vietnam-africa-comparison %})
 , we wondered how to visualize standards of living using multiple dimensions rather than just GDP per capita. A straightforward solution is to simply make one graph for each of the dimension. However, this will quickly gets out of hand as the number of dimensions grows large.
 
 A better solution is to use [Gower distance coefficient](http://venus.unive.it/romanaz/modstat_ba/gowdis.pdf), which measures how different two things are based on multiple criteria. Gower distance ranges from 0 (i.e. these two are identical) to 1 (i.e. these two have the farthest distance in the population).[^1]
