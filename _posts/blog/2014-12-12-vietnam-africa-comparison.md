@@ -25,7 +25,7 @@ Given Africa's geographic size, Anh and I are curious to have a quick glance of 
 	<img src="/images/vietnam_africa_full.png" alt="vietnam_africa_full">
 </figure>
 
-It appears that Vietnam is not much more developed, at least in terms of income, than the majority of African countries (told ya!). But graph also shows a few shocking cases:
+It appears that Vietnam is not much more developed, at least in terms of income, than the majority of African countries (told ya!). But the graph also shows a few shocking cases:
 
 - *Why are Seychelles so wealthy?* Small island, lots of tourists. I have to confess that I had to look up Seychelles on the map. 
 - *What's up with Equatorial Guinea's rise?* Small island, huge recent discovery of oil. It is unfortunately a classic case of [resource curse](http://www.bbc.com/news/world-africa-13317174), with ordinary people suffering from poverty despite the misleadingly high GDP per capita.
