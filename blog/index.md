@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Data Visualization from Lê and Lê."
 ---
 
 <ul class="post-list">
