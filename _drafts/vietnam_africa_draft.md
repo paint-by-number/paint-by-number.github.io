@@ -36,6 +36,6 @@ But including these cases in the graph is misleading so we remove the outliers a
 	<figcaption><a href="/images/vietnam_africa_comparison.png" title="Comparing GDP per cap between Vietnam - Africa">Comparing GDP per cap between Vietnam - Africa</a>.</figcaption>
 </figure>
 
-So friends, you can rest assured that I am travelling to a thriving and exciting place :) We'll have a follow up on this topic in the next blog. In the mean time, please enjoy this video of MCA-Namibia’s Conservancy Development Support Services Activity - a community development initiative that I helped evaluate last summer.
+So friends, you can rest assured that I am travelling to a thriving and exciting place :) We'll have a follow up on this topic in the next blog. In the mean time, please enjoy this video of MCA-Namibia’s Conservancy Development Support Services Activity -- a community development initiative that I helped evaluate last summer.
 
 <iframe src="//player.vimeo.com/video/99862855?title=0&amp;byline=0" width="500" height="281" frameborder="0"> </iframe>
