@@ -23,7 +23,9 @@ Given Africa's geographic size, Anh and I are curious to have a quick glance of 
 
 <figure>
 	<img src="/images/vietnam_africa_full.png" alt="vietnam_africa_full">
+		<figcaption>Data source: The World Bank.</figcaption>
 </figure>
+
 
 It appears that Vietnam is not much more developed, at least in terms of income, than the majority of African countries (told ya!). But the graph also shows a few shocking cases:
 
@@ -34,7 +36,6 @@ But including these cases in the graph is misleading so we remove the outliers a
 
 <figure>
 	<img src="/images/vietnam_africa_comparison.png" alt="vietnam_africa_comparison">
-	<figcaption><a href="/images/vietnam_africa_comparison.png" title="Comparing GDP per cap between Vietnam - Africa">Comparing GDP per cap between Vietnam - Africa</a>.</figcaption>
 </figure>
 
 So friends, you can rest assured that I am travelling to a thriving and exciting place :) We'll have a follow up on this topic in the next blog. In the mean time, please enjoy this video of MCA-Namibia’s Conservancy Development Support Services Activity -- a community development initiative that I helped evaluate last summer.
