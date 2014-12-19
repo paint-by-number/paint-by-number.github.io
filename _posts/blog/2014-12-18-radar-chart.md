@@ -26,4 +26,6 @@ Below is a interactive and multi-dimensional comparison of Vietnam & Africa.
 
 ---
 How we plot the graphs:
-<script src="http://gist-it.appspot.com/github.com/paint-by-number/visualization-code/tree/master/radar_shiny"></script>
+<script src="http://gist-it.appspot.com/github.com/paint-by-number/visualization-code/blob/master/radar_shiny/server.R"></script>
+<script src="http://gist-it.appspot.com/github.com/paint-by-number/visualization-code/blob/master/radar_shiny/ui.R"></script>
+<script src="http://gist-it.appspot.com/github.com/paint-by-number/visualization-code/blob/master/radar_shiny/helper.R"></script>
