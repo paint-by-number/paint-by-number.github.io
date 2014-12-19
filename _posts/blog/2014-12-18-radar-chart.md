@@ -20,7 +20,7 @@ Here is another way to visualize multi-dimensional comparison, using radar chart
 	<figcaption>Credit: statsbomb.com</figcaption>
 </figure>
 
-Below is a interactive and multi-dimensional comparison of Vietnam & Africa.
+Below is a interactive and multi-dimensional comparison of Vietnam & Africa. If the graph is slow to load, please [view it directly here](https://ladilettante.shinyapps.io/radar_shiny/).
 
 <iframe src="https://ladilettante.shinyapps.io/radar_shiny/" width="100%" height="750px"></iframe>
 
